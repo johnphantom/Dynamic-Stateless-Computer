@@ -1,0 +1,15 @@
+// Chief Slapaho's Counter-Strike Expert Script v11.0  www.counter-script.net or slapaho.freewebpage.org or slapaho.stormpages.com Copywrite 09/17/2005 email: johnphantom@hotmail.com
+
+echo ***** NOTICE *****
+echo
+echo press S to start Chief Slapahos Counter-Strike Expert Script v11.0 Copywrite 09/17/2005
+echo
+
+exec goslap.cfg
+
+s_refgain 0.4
+s_refdelay 4
+s_occfactor 0.25
+s_verbwet 0.25
+s_distance 60
+stuffcmds

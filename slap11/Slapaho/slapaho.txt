@@ -1,0 +1,80 @@
+Chief Slapaho's Counter-Strike Expert Script v11.0  www.counter-script.net or slapaho.freewebpage.org or slapaho.stormpages.com Copywrite 09/17/2005 email: johnphantom@hotmail.com
+
+Veni. Vidi. Vici.
+
+Features:
+
+Comprehensive buy system
+Programmable one button buy all
+Programmable grenade tosser
+Four individual mouse sensitivity settings, normal, zoom 1 & 2, assault rifle zoom
+Burst modes that work for all weapons
+Integrated configuration through Half-Life's configuration menu
+AutoTaunt System
+
+WARNING: This script expects you to use the default keyboard and mouse setup as shown in Slapaho.gif, AND ENTIRELY OVERWRITES YOUR EXISTING SETUP.
+
+Files in slapaho11.zip: fifteen (15) slapaho.txt (this file), radio.cfg, config.cfg, goslap.cfg, insult.cfg, insult2.cfg, kb_act.lst, slapaho.cfg, slapaho2.cfg, slapaho3.cfg, slapaho4.cfg, slapaho5.cfg, slapaho6.cfg, Slapaho.gif, valve.rc
+
+To Use: place zip in \Program Files\Valve\Steam\SteamApps\johnphantom\counter-strike\cstrike directory, and extract making sure FULL PATHS ARE USED. Note that you need to change the "johnphantom" part of the path to your user name.
+
+When in game, press S to start the script.
+
+Test system info: P3/733MHz, 133MHz bus, 512MB 133MHz RAM, Asus 7700 Geforce2 32MB, SB Live Value, Intel Pro/100 w/RR Cable
+
+Since valve decided to disable echo'ing to the screen, you have to pull down console (~ key) to see what it is doing.
+
+How It Works:
+
+You must use the buy system, it was the original point of the script and most usefull part.
+Most functions of the script automate standard user key punching sequences.
+Please see Slapaho/Slapaho.gif for a full keyboard and mouse layout description.
+
+Two tricks to remeber:
+1) Use the buy system to set modes for weapons you pick up.
+2) ALWAYS USE THE RELOAD BUTTON WITH ZOOM WEAPONS, as this resets the mouse sensitivity. If your mouse sensitivity is the same for all modes then you do not have to worry about it.
+
+Script Configuration:
+
+	Almost all key configuration is avalible through the Counter-Strike Half-Life configuration menu.
+
+	Contents of Slapaho\slapaho.cfg:
+		Mouse sensitivity settings, YOU MUST SET MOUSE SENSITIVITY HERE.
+		Weapon buy mode switching, F6 F7 F10 and F11 are bound directly here.
+		Various game settings.
+
+. (period) changes weapon buy modes for F6 F7 F10 and F11 from Power to Secondary settings. F6 switches between Autoshotgun and Pump, F7 switches between 550/G3SG1 and Scout, F10 switches between P228 and Elites/57 and F11 switches between Ump and MAC-10/TMP.
+
+Q W E R and T toggle buying armor (Q), defuse (W), nightvision (E), shield (R) and deagle (T, as a secondary weapon in conjunction with a primary weapon, use F5 to buy it as a primary) respectfully. If you select a pistol the script will automatically NOT buy a deagle. If you select a non-pistol weapon it will automatically NOT buy a shield. Note that once these toggles are set to on they will stay on until you turn them off. Note that turning any of these toggles on it will try to immediatly buy the item, except for the deagle.
+
+Notes on grenade buying and throwing:
+
+This part of the script is the most difficult to understand.
+If you only have a two button mouse, the script automatically links grenade throwing into mouse2.
+If you have a three button mouse, press that third button and the script will automatically move grenade tossing to mouse3 and off of mouse2.
+To select the grenades to be bought and thrown in order, use X C V and B as designated throwing order slots. Slot 1 will always throw the first grenade, slot 2 the second, etc.
+When using X C V B to select grenades, HE is first, FB second, FB third, Smoke last.
+
+For example, if I wanted a Smoke first, FB second, HE third, and FB fourth I would press V C B X in that order.
+
+By default the script sets slot 2 to HE. If you wanted to add a FB in slot 1, press X (you will throw FB first then HE second). Conversly, if you wanted to add a FB in slot 3, press V (you will throw HE first then FB second). N clears the slots and resets the order.
+
+When using the one-button-buy all feature, your primary choice for a weapon will be bought first, then the ammo for that weapon (it will not buy secondary ammo if you choose a sub-machine gun or higher), then armor+helmet, then armor (it will not buy this if armor+helmet succeded), then grenades in the order you have chosen them, then shield, then defuser, then Eagle as a secondary weapon and lastly nightvision goggles.
+
+The script sets Desert Eagle as primary weapon when started. By default buy Desert Eagle as a secondary weapon is off, buy armor is on, buy defuser is on, buy shield is off and buy nightvision is off.
+
+The reload button (key pad Enter) will buy primary ammo first, secondary ammo second and grenades (in the order you have chosen them) third.
+
+AutoTaunt works very simply, you turn it on and it randomly chooses a taunt and spits it out when you fire your gun. On Low it will say a taunt about 4% of the time, on Extremely Obnoxios about 25% of the time. To change the taunts open insult.cfg and/or insult2.cfg and simply change the text that is to be said.
+
+The I key sets radio programming modes, the first time you press it will set it to program Standard radio calls, second time Group, the third time Report, the fourth time will Lock the radio buttons. Once in a programming mode, press the desired radio key (Ins, End and PgDown above the arrow keys) and it will rotate through the radio sayings in that particular group. Once done choosing the desired radio call, use the I key again to lock the buttons.
+
+Weapon handling: The left mouse button (mouse1) is always fire, and mouse2alt (the key pad INS key) will always do the opposite of mouse2. When you select a pistol as your primary weapon, mousewheelup will get your best weapon (if you pick up something stronger than a pistol it will get this instead of your pistol) mousewheeldown will get your knife. The right mouse button (mouse2) is walk with your pistol (as a primary weapon) out, and is attack2 (hard slash) with your knife. If you have a sub-machine gun or better non-scope weapon mouse2 is walk, mousewheel up gets best weapon and mousewheeldown will always get your pistol. Use the keyboard / to go down weapons to get your knife. If you have a scoped rifle mouse2 becomes attack2 (zoom). if you have your pistol out with any greater weapon selected as primary, mouse2 will always switch to your best weapon. When using an AWP or Scout, the script will automatically switch to pistol after firing one round from the AWP/Scout. You can then press mouse2 and it will switch back to the AWP or Scout.
+
+This script is whole; every part is nesisary for the rest to work.
+
+You may not alter this package in any way without express written permision.
+
+Feel free to distribute it.
+
+Chief Slapaho
