@@ -1,6 +1,6 @@
 My system performs the permutations only using one command without numeric variables and without logic operators. This is niether digital nor analog logic. This is pure connectionism. 
 
-Please read dynamicstatelesscomputer.pdf :
+Please read dynamicstatelesscomputer.pdf after looking at calculator_simple.cfg and calculator_complex.cfg.
 
 We are not digital and nothing in Nature is digital. Oxford quantum physics professor Andrew Steane wrote in his paper about quantum information systems titled "Quantum computing" at https://arxiv.org/pdf/quant-ph/9708022.pdf :
 
