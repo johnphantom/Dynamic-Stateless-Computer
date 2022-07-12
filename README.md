@@ -6,6 +6,8 @@ Quantum mechanics is beyond me, but if this only needs connections, ie a quantum
 
 You are best off going to Github and seeing online without downloading the paper and models. When someone looked at my calculators, they accused me of: "You're not doing math! You're emulating math!" They were an afterthought to simply and clearly demonstrate this single concept. Look at the simple calculator and flowchart first, it only does addition and subtraction. Then look at the complex calculator that does multiplication and division.  As you well know, if I can do those things, I can do anything mathematically. In the main model I created if-thens, complex do-whiles, a randomizer and a relational database.
 
+Alias is the command I use to implement this, it only allows you to create or rewrite a created command that executes a string of commands, and nothing else.
+
 https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator_simple.cfg
 
 https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator_simple%20Flowchart.png
