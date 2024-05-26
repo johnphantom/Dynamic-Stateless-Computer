@@ -8,8 +8,6 @@ https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator
 
 The problem people have when they understand how it works: it is not Turing Complete - it requires an "operator".
 
-I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers - a much more simple computer than the three basic Boolean logic gates operating on mathematical binary bits that is every computer out there. The shape is the logic and the logic is the shape, sort of like a truth table that is dynamic where the "truths" change as it runs. 
-
 Through the exercise of the most complex do-while I asked a question related to that, and the answer uses the ancient Chinese/Pascal's Triangle (which millions have looked at over thousands of years) in a new way: https://mathhelpforum.com/threads/combination-lock.17147/ 
 
 This word problem illustrates the grenade throwing with a combination lock: You have a combination padlock with four dials on it. Each dial has the numbers 0 through 4 on them. The lock can have as many 0s as dials, and is set to 0000 by default. The lock does not allow you to use any number between 1 and 4 two or more times in the combination. The following combinations are valid: 0123 1234 0103 0010 4031. The following combinations are invalid: 0113 4014 0202 4444. How many possible combinations are there?
@@ -17,6 +15,8 @@ This word problem illustrates the grenade throwing with a combination lock: You 
 The technique of the implementation is a little interesting, with it being able to reach any of the 209 possible permutations of 4 wheels with 4 numbers (don't know if I should count 0, it is special in this case - if you do count 0, it is 5 numbers) in 4 keystrokes or less - it's how it scales that is the curiosity, where if I had 18 slots and 18 items to form a combination it would have almost 3x10 to 18th power or 2,968,971,264,021,448,999 possible permutations, each reachable within 18 keystrokes or less. 
 
 grenade-combination_lock.cfg performs the permutations the word problem illustrates: https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/grenade-combination_lock.cfg
+
+I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers - a much more simple computer than the three basic Boolean logic gates operating on mathematical binary bits that is every computer out there. The shape is the logic and the logic is the shape, sort of like a truth table that is dynamic where the "truths" change as it runs. 
 
 I don't have any idea as to how this would be physically built - none of the aspects of it, except for the dynamic logic that I also do not have any clue if it really is what I ask above. I just can do these things I demonstrate and in my extensive 50 years of digital computer experience I have not seen anything exactly like it, and I can find nothing online too.
 
