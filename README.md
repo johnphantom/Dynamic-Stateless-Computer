@@ -22,4 +22,6 @@ I don't have any idea as to how this would be physically built - none of the asp
 
 Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them. 
 
-"Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement." https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
+"Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
+"Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
+https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
