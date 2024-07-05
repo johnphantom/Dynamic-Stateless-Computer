@@ -14,7 +14,7 @@ This word problem illustrates the grenade throwing with a combination lock: You 
 
 The technique of the implementation is a little interesting, with it being able to reach any of the 209 possible permutations of 4 wheels with 4 numbers (don't know if I should count 0, it is special in this case - if you do count 0, it is 5 numbers) in 4 keystrokes or less - it's how it scales that is the curiosity, where if I had 18 slots and 18 items to form a combination it would have almost 3x10 to 18th power or 2,968,971,264,021,448,999 possible permutations, each reachable within 18 keystrokes or less. 
 
-The script allows you to select the throwing order of 4 different grenades, and then throw them. The 0 in the combination lock represents an empty slot, which when throwing will be skipped over. The first slot button you push will take high explosive, the second slot button you push even if it is the same button as the high explosive grenade will put a flashbang in the slot, then teargas, then smoke. Pressing any slot a 5th time will reset the slots.
+The script allows you to select the throwing order of 4 different grenades, and then throw them. The 0 in the combination lock represents an empty slot, which when throwing will be skipped over. The first slot button you push will take high explosive, the second slot button you push even if it is the same button as the high explosive grenade will put a flashbang in the slot, then teargas, then smoke. Pressing any slot a 5th time will reset the slots. Use Mouse2 to simulate throwing the grenades.
 
 grenade-combination_lock.cfg performs the permutations the word problem illustrates: https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/grenade-combination_lock.cfg
 
@@ -27,3 +27,5 @@ Simple explanation of entanglement: quantum entanglement means that aspects of o
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
 "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
+
+Is the computer the fabric of space-time, through entanglement alone?
