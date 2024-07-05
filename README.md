@@ -6,7 +6,7 @@ The simple calculator is easiest to understand, it works like an automated abacu
 
 https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator_simple.cfg (pulls the text up online, nothing to download).
 
-The problem people have when they understand how it works: it is not Turing Complete - it requires an "operator".
+The problem people have when they understand how it works: it is not Turing Complete - it requires an operator.
 
 Through the exercise of the most complex do-while I asked a question related to that, and the answer uses the ancient Chinese/Pascal's Triangle (which millions have looked at over thousands of years) in a new way: https://mathhelpforum.com/threads/combination-lock.17147/ 
 
