@@ -27,5 +27,3 @@ Simple explanation of entanglement: quantum entanglement means that aspects of o
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
 "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
-
-Is the computer the fabric of space-time, through entanglement alone?
