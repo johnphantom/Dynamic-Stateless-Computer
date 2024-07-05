@@ -8,7 +8,7 @@ https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator
 
 The problem people have when they understand how it works: it is not Turing Complete - it requires an operator.
 
-Through the exercise of the most complex do-while I asked a question related to that, and the answer uses the ancient Chinese/Pascal's Triangle (which millions have looked at over thousands of years) in a new way: https://mathhelpforum.com/threads/combination-lock.17147/ 
+Through the exercise of the most complex do-while I asked a question related to that, and the answer uses the ancient Chinese/Pascal's Triangle in a new way: https://mathhelpforum.com/threads/combination-lock.17147/ 
 
 This word problem illustrates the grenade throwing with a combination lock: You have a combination padlock with four dials on it. Each dial has the numbers 0 through 4 on them. The lock can have as many 0s as dials, and is set to 0000 by default. The lock does not allow you to use any number between 1 and 4 two or more times in the combination. The following combinations are valid: 0123 1234 0103 0010 4031. The following combinations are invalid: 0113 4014 0202 4444. How many possible combinations are there?
 
