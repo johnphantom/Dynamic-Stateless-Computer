@@ -20,7 +20,7 @@ grenade-combination_lock.cfg performs the permutations the word problem illustra
 
 I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers - a much more simple computer than the three basic Boolean logic gates operating on mathematical binary bits that is every computer out there. The shape is the logic and the logic is the shape, sort of like a truth table that is dynamic where the "truths" change as it runs. 
 
-Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them. 
+"Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them."
 
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
 "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
