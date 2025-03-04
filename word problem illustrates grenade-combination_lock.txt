@@ -1,3 +1,14 @@
-You have a combination padlock with four dials on it. Each dial has the numbers 0 through 4 on them. The lock can have as many 0s as dials, and is set to 0000 by default. The lock does not allow you to use any number between 1 and 4 two or more times in the combination. The following combinations are valid: 0123 1234 0103 0010 4031. The following combinations are invalid: 0113 4014 0202 4444. How many possible combinations are there?
+You have a combination padlock with four dials on it. 
+Each dial has the numbers 0 through 4 on them. 
+The lock can have as many 0s as dials, and is set to 0000 by default. 
+The lock does not allow you to use any number between 1 and 4 two or more times in the combination. 
+The following combinations are valid: 0123 1234 0103 0010 4031. 
+The following combinations are invalid: 0113 4014 0202 4444. 
+How many possible combinations are there?
 
-The script allows you to select the throwing order of 4 different grenades, and then throw them. The 0 in the combination lock represents an empty slot, which when throwing will be skipped over. The first slot button you push will take high explosive, the second slot button you push even if it is the same button as the high explosive grenade will put a flashbang in the slot, then teargas, then smoke. Pressing any slot a 5th time will reset the slots.
+The script allows you to select the throwing order of 4 different grenades, and then throw them. 
+The 0 in the combination lock represents an empty slot, which when throwing will be skipped over. 
+The first slot button you push will take high explosive, 
+the second slot button you push even if it is the same button as the high explosive grenade will put a flashbang in the slot, 
+then teargas, then smoke. 
+Pressing any slot a 5th time will reset the slots.
