@@ -8,7 +8,3 @@ How many possible combinations are there?
 
 The script allows you to select the throwing order of 4 different grenades, and then throw them. 
 The 0 in the combination lock represents an empty slot, which when throwing will be skipped over. 
-The first slot button you push will take high explosive, 
-the second slot button you push even if it is the same button as the high explosive grenade will put a flashbang in the slot, 
-then teargas, then smoke. 
-Pressing any slot a 5th time will reset the slots.
