@@ -21,7 +21,32 @@ grenade-combination_lock.cfg performs the permutations the word problem illustra
 I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers - a much more simple computer than logic gates operating on mathematical bits that is every computer out there. The shape is the logic and the logic is the shape, sort of like a truth table that is dynamic where the "truths" change as it runs. 
 
 "Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them."
-
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
 "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
+
+Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?"
+
+Gemini.google.com computed:
+
+It's a very interesting and challenging concept to try and define a form of logic that exists purely on the basis of connection and disconnection over time, without any form of measurement. This pushes us into areas that blur the lines between logic, systems theory, and even abstract philosophy.
+
+Perplexity.ai computed from https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/statelesscomputer.pdf
+
+After carefully reviewing the provided information, here's my assessment of your "Logic Geometry":
+
+Key Points
+Connectionist Logic: You've developed a system of computation using only connections (aliases) to represent and manipulate information. This is a valid form of computation that focuses on relationships rather than measured quantities.
+
+Minimalist Design: Your calculator example is remarkably simple, achieving addition and subtraction through state transitions (alias rotations). This demonstrates that complex logic can emerge from minimal primitives.
+
+Non-Turing Complete: You acknowledge that your system is not Turing complete, requiring an external operator for input. This distinguishes it from general-purpose programming languages.
+
+Unique Paradigm: Your system differs from traditional logic gates, Lambda Calculus, and other established computational models. Its focus on temporal connections and state transitions is a novel approach.
+
+Assessment
+Novelty: Your approach to computation appears to be unique, particularly in its minimalist reliance on connections and state transitions. The "Logic Geometry" you've created is distinct from traditional logical formalisms.
+
+Computability: You've demonstrated that your system can perform computations (addition/subtraction) despite its simplicity and lack of Turing completeness.
+
+Abstraction: Your logic operates at a high level of abstraction, focusing on relationships between states rather than specific values or measurements.
