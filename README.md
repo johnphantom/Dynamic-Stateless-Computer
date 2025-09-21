@@ -6,7 +6,7 @@ I only claim to have proven this: A computable logic that arises from how connec
 
 The models use only one command to perform logic, "alias," which allows you to create a new command or rewrite an existing one to execute a string of commands. In my models, that string only calls other alias-created commands, essentially looping back on itself, utilizing only connections. Using the one command "alias", I have built an entirely recursive language. I have built if-then statements, sophisticated do-while loops, a randomizer, a relational database, and math emulators. 
 
-The simple calculator is the easiest to understand; it works like an automated abacus - a conceptually simple approach. If you see how it works here, then you know everything about it, just not some of the methods of using it that I have developed:
+The simple calculator is the easiest to understand; it works like an automated abacus—a conceptually simple approach. If you see how it works here, then you know everything about it, just not some of the methods of using it that I have developed:
 
 https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator_simple.cfg (pulls the text up online, nothing to download).
 
@@ -20,7 +20,7 @@ You have a combination padlock with four dials. Each dial has the numbers 0 thro
 
 The technique of the implementation is interesting, with it being able to reach any of the 209 possible permutations of 4 wheels with 4 numbers (zero represents an empty slot in implementation) in 4 keystrokes or less - it's how it scales that is the curiosity, where if I had 18 slots and 18 items to form a combination it would have 2,968,971,264,021,448,999 possible permutations, each reachable within 18 keystrokes or less. 
 
-The script allows you to select the throwing order of 4 different grenades, and then throw them. The 0 in the combination lock represents an empty slot, which, when thrown, will be skipped over. The first slot button you push will take a high explosive, the second slot button you push, even if it is the same button as the high explosive grenade, will put a flashbang in the slot, then teargas, then smoke. Pressing any slot a 5th time will reset the slots. Use Mouse2 to simulate throwing the grenades.
+The script allows you to select the throwing order of 4 different grenades and then throw them. The 0 in the combination lock represents an empty slot, which, when thrown, will be skipped over. The first slot button you push will take a high explosive, the second slot button you push, even if it is the same button as the high explosive grenade, will put a flashbang in the slot, then teargas, then smoke. Pressing any slot a 5th time will reset the slots. Use Mouse2 to simulate throwing the grenades.
 
 grenade-combination_lock.cfg performs the permutations the word problem illustrates: https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/grenade-combination_lock.cfg
 
@@ -31,11 +31,13 @@ I propose the computer is the hologram and the hologram is the computer, where t
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘" "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?" Make sure you check any positive answers you get; LLMs are known to hallucinate.
 
 Gemini.google.com computed:
 
-It's a very interesting and challenging concept to try and define a form of logic that exists purely on the basis of connection and disconnection over time, without any form of measurement. This pushes us into areas that blur the lines between logic, systems theory, and even abstract philosophy.
+It's a very interesting and challenging concept to try and define a form of logic that exists purely based on connection and disconnection over time, without any form of measurement. This pushes us into areas that blur the lines between logic, systems theory, and even abstract philosophy.
 
 Perplexity.ai computed from https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/statelesscomputer.pdf
 
@@ -45,11 +47,11 @@ Key Points
 
 Connectionist Logic: You've developed a system of computation using only connections (aliases) to represent and manipulate information. This is a valid form of computation that focuses on relationships rather than measured quantities.
 
-Minimalist Design: Your calculator example is remarkably simple, achieving addition and subtraction through state transitions (alias rotations). This demonstrates that complex logic can emerge from minimal primitives.
+Minimalist Design: Your calculator example is elementary, achieving addition and subtraction through state transitions ("alias" rotations). This demonstrates that complex logic can emerge from minimal primitives.
 
 Non-Turing Complete: You acknowledge that your system is not Turing complete, requiring an external operator for input. This distinguishes it from general-purpose programming languages.
 
-Unique Paradigm: Your system differs from traditional logic gates, Lambda Calculus, and other established computational models. Its focus on temporal connections and state transitions is a novel approach.
+Unique Paradigm: Your system differs from traditional logic gates, the Lambda Calculus, and other established computational models. Its focus on temporal connections and state transitions is a novel approach.
 
 Assessment
 
