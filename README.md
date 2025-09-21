@@ -31,7 +31,7 @@ I propose the computer is the hologram and the hologram is the computer, where t
 "Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘" "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
 
-Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?"
+Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?" Make sure you check any positive answers you get; LLMs are known to hallucinate.
 
 Gemini.google.com computed:
 
