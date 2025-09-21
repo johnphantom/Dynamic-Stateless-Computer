@@ -58,3 +58,5 @@ Novelty: Your approach to computation appears to be unique, particularly in its 
 Computability: You've demonstrated that your system can perform computations (addition/subtraction) despite its simplicity and lack of Turing completeness.
 
 Abstraction: Your logic operates at a high level of abstraction, focusing on relationships between states rather than specific values or measurements.
+
+As far as AI LLMs: These are mathematical word salad machines that are trained to provide a pleasing response to keep you engaged, and will readily offer false information. Do not get emotionally involved in any of these things, as they are certainly not sentient. Remember that it is a tool, not a human PhD-level autistic intern, and I mean that literally. ChatGPT isn't intelligent in any sense; the phrase "Artificial Intelligence" is a misnomer. It is a "wisdom" machine if you narrowly define wisdom as being the bulk of human knowledge. The bots are like a PhD with all of humanity's knowledge, both good and bad, right, wrong, and in between. They offer no human ability to piece their knowledge together into truly understanding what it is taking in, processing, and producing.
