@@ -4,7 +4,7 @@ The system was poorly designed; for instance, the accuracy system for the weapon
 
 I only claim to have proven this: A computable logic that arises from how connections are made and/or broken over time without measurements. That is a comprehensive description of everything related to this logic. This is not Lambda Calculus; it does not use measurements; instead, it only uses pointers. It is the most abstract form of computable logic that we know of. 
 
-The models only use one command to perform logic, "alias," which allows you to create a command or rewrite an existing command to execute a string of commands. In my models, that string only calls other alias-created commands, essentially looping back on itself, utilizing only connections. Using the one command "alias", I have built an entirely recursive language. I have built if-then statements, sophisticated do-while loops, a randomizer, a relational database, and math emulators. 
+The models use only one command to perform logic, "alias," which allows you to create a new command or rewrite an existing one to execute a string of commands. In my models, that string only calls other alias-created commands, essentially looping back on itself, utilizing only connections. Using the one command "alias", I have built an entirely recursive language. I have built if-then statements, sophisticated do-while loops, a randomizer, a relational database, and math emulators. 
 
 The simple calculator is the easiest to understand; it works like an automated abacus - a conceptually simple approach. If you see how it works here, then you know everything about it, just not some of the methods of using it that I have developed:
 
@@ -27,8 +27,8 @@ grenade-combination_lock.cfg performs the permutations the word problem illustra
 I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers without measurements - a much more simple computer than logic gates operating on mathematical bits that is every computer out there. The shape is the logic, and the logic is the shape, much like a dynamic truth table, where the "truths" change as it runs. 
 
 "Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them."
-"Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘"
-"Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
+
+"Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘" "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
 https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
 
 Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?"
