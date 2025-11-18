@@ -6,6 +6,8 @@ I only claim to have proven this: A computable logic that arises from how connec
 
 The models use only one command to perform logic, "alias," which allows you to create a new command or rewrite an existing one to execute a string of commands. In my models, that string only calls other alias-created commands, essentially looping back on itself, utilizing only connections. Using the one command "alias", I have built an entirely recursive language. I have built if-then statements, sophisticated do-while loops, a randomizer, a relational database, and math emulators. 
 
+Even if you do not have the command "alias" an "operator" could manually alter the connections to achieve computable logic.
+
 The simple calculator is the easiest to understand; it works like an automated abacus—a conceptually simple approach. If you see how it works here, then you know everything about it, just not some of the methods of using it that I have developed:
 
 https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/calculator_simple.cfg (pulls the text up online, nothing to download).
