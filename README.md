@@ -35,8 +35,6 @@ https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Ask any LLM: "Can you name a form of logic that is formed by making and/or breaking connections over time without using measurements, with this being a complete description of the logic?" Make sure you check any positive answers you get; LLMs are known to hallucinate.
-
 Gemini.google.com computed:
 
 It's a very interesting and challenging concept to try and define a form of logic that exists purely based on connection and disconnection over time, without any form of measurement. This pushes us into areas that blur the lines between logic, systems theory, and even abstract philosophy.
