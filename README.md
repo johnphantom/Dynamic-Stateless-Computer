@@ -26,13 +26,6 @@ The script allows you to select the throwing order of 4 different grenades and t
 
 grenade-combination_lock.cfg performs the permutations the word problem illustrates: https://github.com/johnphantom/Dynamic-Stateless-Computer/blob/master/grenade-combination_lock.cfg
 
-I propose the computer is the hologram and the hologram is the computer, where the computer is the fabric of space-time, only using entanglement - a "Dynamic Stateless Computer" that operates on "Logic Geometry" based only on connections, or links, or pointers without measurements - a much more simple computer than logic gates operating on mathematical bits that is every computer out there. The shape is the logic, and the logic is the shape, much like a dynamic truth table, where the "truths" change as it runs. 
-
-"Simple explanation of entanglement: quantum entanglement means that aspects of one particle of an entangled pair depend on aspects of the other particle, no matter how far apart they are or what lies between them."
-
-"Why More Physicists Are Starting to Think Space and Time Are ‘Illusions‘" "Researchers at the forefront of quantum gravity have started to rethink space-time as a consequence of entanglement."
-https://www.yahoo.com/now/why-more-physicists-starting-think-045308127.html
-
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Gemini.google.com computed:
